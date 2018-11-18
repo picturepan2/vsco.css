@@ -1,0 +1,32 @@
+{
+  "name": "vsco.css",
+  "version": "0.1.0",
+  "homepage": "http://picturepan2.github.io/vsco.css",
+  "author": "Yan Zhu <picturepan2@hotmail.com>",
+  "description": "VSCO.css",
+  "main": "dist/vsco.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/picturepan2/vsco.css.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "pure-css",
+    "filters"
+  ],
+  "bugs": {
+    "url": "https://github.com/picturepan2/vsco.css/issues"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "latest"
+  },
+  "browserslist": [
+    "> 0%"
+  ]
+}
